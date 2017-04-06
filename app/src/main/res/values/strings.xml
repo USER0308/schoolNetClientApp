@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_label_username">Login</string>
+    <string name="login_label_passwd">password</string>
+    <string name="login_label_signin">save</string>
+    <string name="info">如果您是首次使用,请先在本页面填写相关信息</string>
+</resources>
