@@ -2,7 +2,7 @@
 
 ---
 
-目前仅提供安卓版本,点击![这里](app/app.release.apk)下载 apk
+目前仅提供安卓版本,点击![这里](app/app-release.apk)下载 apk
 
 ## 使用说明
 
