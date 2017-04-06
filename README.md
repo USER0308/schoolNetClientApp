@@ -2,7 +2,7 @@
 
 ---
 
-目前仅提供安卓版本,点击![这里]("/app/app.release.apk")下载 apk
+目前仅提供安卓版本,点击![这里]("app/app.release.apk")下载 apk
 
 ## 使用说明
 
@@ -16,9 +16,9 @@
 
 ## 软件截图
 
-![]("/Screenshot/LoginScreen1.png")
+![图片1]("Screenshot/LoginScreen1.png")
 
-![]("/Screenshot/LoginScreen2.png")
+![图片2]("Screenshot/LoginScreen2.png")
 
 ## 原理说明
 
@@ -77,4 +77,4 @@ v1.0: 显示特定 URL 网页, js 填写特定表单数据
 
 v2.0: 增加 "+" 和 "<---", 自由切换界面,支持用户填写表单,并将表单数据保存在本地,支持表单 vipDefaultPassword 项 value 值为 String 类型
 
-v2.1: 添加 URL 栏,支持打开用户指定的 URL 地址,并把 URL 保存在本地L 保存在本地
+v2.1: 添加 URL 栏,支持打开用户指定的 URL 地址,并把 URL 保存在本地L 保存在本地地
